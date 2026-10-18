@@ -1,0 +1,12 @@
+dsh-skill-creator (DeepSeek Harness port)
+Copyright 2026 Anuii (https://github.com/Anuii)
+
+This distribution is a modified version of Anthropic's skill-creator.
+
+Upstream work:
+  skill-creator
+  Copyright 2026 Anthropic, PBC.
+  Licensed under the Apache License, Version 2.0 (see LICENSE.txt).
+
+Modifications made for this DeepSeek Harness port are also licensed
+under the Apache License, Version 2.0.
