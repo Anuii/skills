@@ -32,3 +32,11 @@ a nested `**/SKILL.md` is not.
 A port of Anthropic's skill-creator. Licensed under the Apache License 2.0 - see
 [dsh-skill-creator/LICENSE.txt](dsh-skill-creator/LICENSE.txt) and
 [dsh-skill-creator/NOTICE](dsh-skill-creator/NOTICE).
+
+## ub-mode
+
+Apply Uncle Bob's reduced engineering principles with bundled crapper, dryer, and mutator quality gates. This distribution adds C support and records all upstream baselines in [ub-mode/UPSTREAM.md](ub-mode/UPSTREAM.md).
+
+### Install
+
+Copy the complete `ub-mode` directory into `~/.dsh/skills` or `~/.agents/skills`. The bundled tools require Python 3.11 or newer; see [ub-mode/README.md](ub-mode/README.md) for the unified launcher and C project command configuration.
